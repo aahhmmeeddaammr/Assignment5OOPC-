@@ -35,10 +35,14 @@ namespace Assignment5OOP.Third_Project
         #region Constructors
         public Duration(int _Hours, int _Minutes, int _Seconds)
         {
+            if(_Hours < 0 || _Minutes < 0 || _Seconds < 0)
+            {
+                throw new ArgumentException("Invalid Time");
+            } 
             Hours = _Hours;
             Minutes = _Minutes;
             Seconds = _Seconds;
-
+        
             Minutes += Seconds / 60;
             Seconds %= 60;
             Hours += Minutes / 60;
@@ -46,10 +50,14 @@ namespace Assignment5OOP.Third_Project
         }
         public Duration() : this(0, 0, 0)
         {
-
+        
         }
         public Duration(int _Seconds)
         {
+            if ( _Seconds < 0)
+            {
+                throw new ArgumentException("Invalid Time");
+            }
             int _hours = _Seconds / 3600;
             Hours = _hours;
             _Seconds %= 3600;
