@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\bin\Debug\net8.0\Assignment5OOP.exe
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\bin\Debug\net8.0\Assignment5OOP.deps.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\bin\Debug\net8.0\Assignment5OOP.runtimeconfig.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\bin\Debug\net8.0\Assignment5OOP.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\bin\Debug\net8.0\Assignment5OOP.pdb
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\Assignment5OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\Assignment5OOP.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\Assignment5OOP.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\Assignment5OOP.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\Assignment5OOP.sourcelink.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\Assignment5OOP.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\refint\Assignment5OOP.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\Assignment5OOP.pdb
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\Assignment5OOP.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Assignment5OOP\Assignment5OOP\obj\Debug\net8.0\ref\Assignment5OOP.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOvJ74aKidejOczpV1hkIKhCONUdBJlo/B/5ThtqI0MwXR1v4zUrp3fB2wEhsbYLes1PLKzZ+CKLSc4CfLKrcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\3.OOP\\Assignment5OOP\\Assignment5OOP\\Assignment5OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

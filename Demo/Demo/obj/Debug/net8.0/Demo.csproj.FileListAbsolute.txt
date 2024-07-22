@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\bin\Debug\net8.0\Demo.exe
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\bin\Debug\net8.0\Demo.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\Demo.sourcelink.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\3.OOP\Demo\Demo\obj\Debug\net8.0\ref\Demo.dll
